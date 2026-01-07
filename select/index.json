@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ためらいあいいたい",
+  "base_artist": "笹川真生",
+  "createdAt": "2026-01-07T01:31:12.021928Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ためらいあいいたい",
+      "artist": "笹川真生",
+      "has_synced": false,
+      "path": "select/pl_01_ためらいあいいたい_笹川真生.txt"
+    }
+  ]
+}
